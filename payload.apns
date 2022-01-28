@@ -1,0 +1,10 @@
+{
+    "Simulator Target Bundle": "allen870619.PushTest",
+    "aps": {
+        "alert": {
+            "title": "Default Title",
+            "body": "Default Message"
+        },
+        "sound" : "default"
+    }
+}
